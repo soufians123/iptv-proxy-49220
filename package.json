@@ -1,0 +1,13 @@
+{
+  "name": "iptv-proxy-49220",
+  "version": "1.0.0",
+  "description": "Proxy IPTV channel 49220",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "express": "^4.18.2"
+  }
+}
